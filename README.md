@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichGriffin
 - 👀 I’m interested in learning new skills 
-- 🌱 I’m currently learning; prisma cloud; go;
+- 🌱 I’m currently learning; prisma cloud; go; pluralsight flow;
 - 💞️ I’m looking to collaborate on projects that help me learn new hands on skills
 - 📫 Contact me on Twitter @RichGee
 
